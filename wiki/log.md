@@ -21,3 +21,15 @@ No papers ingested yet.
 - Created [[grpo]] paper page from raw/GRPO.pdf
 - Updated concept pages: [[grpo]] (added primary source details, process/outcome supervision, unified paradigm), [[dpo]] (added unified paradigm framing)
 - Tags introduced: mathematical-reasoning, llm-training, pre-training
+
+## [2026-04-08] ingest | DDL (Deep Delta Learning)
+
+- Created [[ddl]] paper page from raw/ddl.pdf
+- Created concept page: [[residual-connections]]
+- Tags introduced: architecture-design, transformer, language-modeling, residual-learning
+
+## [2026-04-08] ingest | EDLM (Energy-based Diffusion Language Models)
+
+- Created [[ebm]] paper page from raw/EBM.pdf
+- Created concept page: [[discrete-diffusion]]
+- Tags introduced: discrete-diffusion, text-generation, energy-based-models

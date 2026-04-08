@@ -27,7 +27,7 @@ The conventions the LLM follows are documented in `../CLAUDE.md`.
 
 ## Status
 
-- Papers ingested: 2 / 17
-- Concept pages: 3
+- Papers ingested: 4 / 17
+- Concept pages: 5
 - Synthesis pages: 0
 - Last updated: 2026-04-08
